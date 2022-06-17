@@ -1,0 +1,37 @@
+Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Documents.PrjPcb|ReportField=ProjectFullPath~D:\2013create\相关设计与源码\micro2440核心板原理图和pcb arm9\ARM9 Micro2440核心板原理图和PCB\Documents.PrjPcb|ReportField=Title~Bill of Materials For Project [Documents.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~111|ReportField=ReportTime~21:52:00|ReportField=ReportDate~2013/7/22|ReportField=ReportDateTime~2013/7/22 21:52:00|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2013/7/22|ReportField=CurrentTime~21:51:47|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\2013create\相关设计与源码\micro2440核心板原理图和pcb arm9\ARM9 Micro2440核心板原理图和PCB\Main.Sch|ReportField=DocumentName~Main.Sch|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2013/7/22|ReportField=Organization~|ReportField=ProjectName~Documents.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~0|ReportField=SheetTotal~12|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Documents.PrjPcb|ReportField=DataSourceFullPath~D:\2013create\相关设计与源码\micro2440核心板原理图和pcb arm9\ARM9 Micro2440核心板原理图和PCB\Documents.PrjPcb
+22p|Capacitor|C1, C2|0603A|CAP|2
+100nF|Capacitor|C3, C7, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C33, C39, CA1, CA2, CA3, CA4, CA5, CA6, CA7, CA8, CA9, CA10, CA11, CA12, CA13, CA14, CA15, CA16, CA17, CA18, CA19, CA20, CA21, CA22, CA23|0603A|CAP|46
+10uF/10V|Capacitor|C4, C11|3216A|CAPACITOR|2
+15p|Capacitor|C5, C6|0603A|CAP|2
+10uF|Capacitor|C9, C12|3216A|CAPACITOR|2
+0.1uF|Capacitor|C10|0603A|CAP|1
+33nF/6.3V|Capacitor|C13|0603A|CAP|1
+104|Capacitor|C34|0603A|CAP|1
+2n7|Capacitor|C40|0603A|CAP|1
+680p|Capacitor|C41|0603A|CAP|1
+CON2|Connector|J1|SIP2S|CON2|1
+HEADER 4X2||JTAG2|IDC10S|HEADER 5X2|1
+GREEN||LED1, LED2, LED3, LED4|LED|LED|4
+MICRO2440||MICRO2440|MICRO2440|MICRO2440|1
+10K||NR1, NR2, NR3, NR4, R3, R4, R6, R58, R59, R60, R61|0603R|RES|11
+1K||NR5, NR8, R40, R41, R42, R43, R57|0603R|RES|7
+RED||Power|LED|LED|1
+330||R1|0603R|RES1|1
+470||R2|0603R|RES1|1
+15K||R10|0603R|RES|1
+4.7K||R22, R68|0603R|RES1|2
+0||R31|0603R|RES1|1
+100K(1%)||R32|0603r|RES1|1
+10(1%)||R33|0603r|RES1|1
+22||R36, R54, R55, R63, R65, R66|0603R|RES|6
+SW-PB||RST|SW-PB2S|SW-PB|1
+CON1|Connector|TP1|TP1|CON1|1
+S3C2440X||U1|BGA289|S3C2440X|1
+K9Fxx08||U2|TSOP48|K9F2808|1
+MAX8860EUA18||U3|MSOP8|LP3982IMM-1.8|1
+LM1117-33||U4|TO-252|LM1117-33|1
+HY57V561620FTP-H||U6, U7|TSOP54|K4S561632C|2
+MAX811||U9|MAX811|MAX811|1
+AM29LV160DB/SST39VF1601||U10|TSOP48|FLASH|1
+32.768kHz||X1|XTAL-B|CRYSTAL|1
+12M||X2|OSC2PR-1|CRYSTAL|1

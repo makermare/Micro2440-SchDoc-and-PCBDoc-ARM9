@@ -1,0 +1,50 @@
+Bill of Material for CoreV1.1_test.PcbDoc
+On 2010-5-24 at 17:05:49
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0.1uF               0603A            1    C10                          Capacitor            
+ 0                   0603R            1    R31                                               
+ 10(1%)              0603r            1    R33                                               
+ 100K(1%)            0603r            1    R32                                               
+ 100nF               0603A           46    C3, C7, C14, C15, C16, C17   Capacitor            
+                                           C18, C19, C20, C21, C22, C23
+                                           C24, C25, C26, C27, C28, C29
+                                           C30, C31, C32, C33, C39, CA1
+                                           CA2, CA3, CA4, CA5, CA6, CA7
+                                           CA8, CA9, CA10, CA11, CA12
+                                           CA13, CA14, CA15, CA16, CA17
+                                           CA18, CA19, CA20, CA21, CA22
+                                           CA23
+ 104                 0603A            1    C34                          Capacitor            
+ 10K                 0603R           11    NR1, NR2, NR3, NR4, R3, R4                        
+                                           R6, R58, R59, R60, R61
+ 10uF/10V            3216A            2    C4, C11                      Capacitor            
+ 10uF                3216A            2    C9, C12                      Capacitor            
+ 12M                 OSC2PR-1         1    X2                                                
+ 15K                 0603R            1    R10                                               
+ 15p                 0603A            2    C5, C6                       Capacitor            
+ 1K                  0603R            7    NR5, NR8, R40, R41, R42, R43                      
+                                           R57
+ 22                  0603R            6    R36, R54, R55, R63, R65, R66                      
+ 22p                 0603A            2    C1, C2                       Capacitor            
+ 2n7                 0603A            1    C40                          Capacitor            
+ 32.768kHz           XTAL-B           1    X1                                                
+ 330                 0603R            1    R1                                                
+ 33nF/6.3V           0603A            1    C13                          Capacitor            
+ 4.7K                0603R            2    R22, R68                                          
+ 470                 0603R            1    R2                                                
+ 680p                0603A            1    C41                          Capacitor            
+ AM29LV160DB/SST39VF1601 TSOP48           1    U10                                               
+ CON1                TP1              1    TP1                          Connector            
+ CON2                SIP2S            1    J1                           Connector            
+ GREEN               LED              4    1, 2, 3, 4                                        
+ HEADER 5X2          IDC10S           1    JTAG2                                             
+ HY57V561620FTP-H    TSOP54           2    U6, U7                                            
+ K9Fxx08             TSOP48           1    U2                                                
+ LM1117-33           TO-252           1    U4                                                
+ MAX811              MAX811           1    U9                                                
+ MAX8860EUA18        MSOP8            1    U3                                                
+ RED                 LED              1    Power                                             
+ S3C2440X            BGA289           1    U1                                                
+ SW-PB               SW-PB2           1    RST                                               
